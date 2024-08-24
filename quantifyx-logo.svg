@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3A1078;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4E31AA;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="40" fill="url(#grad1)" />
+  <path d="M50 10 A40 40 0 0 1 90 50 L50 50 Z" fill="#2F58CD" />
+  <circle cx="50" cy="50" r="15" fill="white" />
+  <text x="100" y="60" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#3A1078">uantifyX</text>
+</svg>
